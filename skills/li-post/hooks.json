@@ -5,7 +5,7 @@
     "One idea per hook. If it needs a comma splice, it needs two posts.",
     "Line 2 is not a hook, it is the payoff of line 1. Never waste it on setup.",
     "No question marks in line 1 unless the question is specific enough that only you could ask it.",
-    "Numbers beat adjectives. '$4,200' beats 'a lot of money' every time.",
+    "Numbers beat adjectives. '€4,200' beats 'a lot of money' every time.",
     "If the hook works with any other person's name on it, it is not your hook."
   ],
   "hooks": [
@@ -29,7 +29,7 @@
       "id": 3,
       "name": "Mistake Confession",
       "template": "{Specific cost} is what {one mistake} cost me.",
-      "example": "$18,000 is what not having a contract cost me last March.",
+      "example": "€18,000 is what not having a contract cost me last March.",
       "best_for": "Trust. People forward the posts where you look bad.",
       "trap": "A fake-humble mistake. 'I care too much' reads as a brag and kills the post."
     },
@@ -101,7 +101,7 @@
       "id": 12,
       "name": "The Comparison",
       "template": "{Expensive option} vs {cheap option}. {Surprising verdict}.",
-      "example": "A $12,000 brand agency vs a $20 tool and a weekend. The weekend won.",
+      "example": "A €12,000 brand agency vs a €20 tool and a weekend. The weekend won.",
       "best_for": "Tool and process posts. Very high share rate.",
       "trap": "An unfair comparison. Concede what the expensive option genuinely does better."
     },

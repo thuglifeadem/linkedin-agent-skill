@@ -14,7 +14,7 @@ at the answers.
 
 - **Name:**
 - **What I do, in one sentence:**
-- **Who I am writing for:** (be specific: "agency owners doing $1-5M", not "professionals")
+- **Who I am writing for:** (be specific: "agency owners doing €1-5M", not "professionals")
 - **What I sell:**
 
 ## What I sound like

@@ -145,6 +145,9 @@ def pass_lexical(text, lex):
     text = re.sub(r"[ \t]{2,}", " ", text)
     text = re.sub(r"(?m)^[ \t]*([,.;:])\s*", "", text)
     text = re.sub(r"\s+([,.;:!?])", r"\1", text)
+    # A deletion can leave the comma from an em dash stranded before other
+    # punctuation ("tools, let that sink in." -> "tools,."). Drop the comma.
+    text = re.sub(r",([,.;:!?])", r"\1", text)
     text = re.sub(r"(?m)^[ \t]+$", "", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     # An em dash that became a comma, followed by a sentence connective, leaves

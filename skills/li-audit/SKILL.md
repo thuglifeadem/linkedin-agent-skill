@@ -64,7 +64,7 @@ say that instead of inventing one.
 AUDIT  ·  31 posts  ·  Jun 12 - Sep 5
 
 TOP 5 BY ENGAGEMENT RATE
-  8.1%  #3  Mistake      "$18,000 is what no contract cost me"      1,940 imp
+  8.1%  #3  Mistake      "€18,000 is what no contract cost me"      1,940 imp
   6.4%  #20 Walk-Away    "I fired my highest-paying client"         2,210 imp
   ...
 
