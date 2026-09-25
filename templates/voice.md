@@ -22,6 +22,7 @@ at the answers.
 - **Three of my own posts that sound most like me:** (paste them, or link them)
 - **Words I actually use:**
 - **Words I would never use:**
+- **Number format:** (default: €4.200 and 8,1% - euro sign first, `.` thousands, `,` decimals)
 - **Sentence length:** (short and punchy / mixed / long and considered)
 - **Do I swear:** (yes / mild / no)
 - **Emoji:** (never / one, rarely / freely)

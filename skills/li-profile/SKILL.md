@@ -56,7 +56,7 @@ no third-person bio, no opening with your own name.
 
 **3. About body.** Written to one reader, in the second person. Structure:
 the problem they have, what you do about it, one piece of proof with a number,
-what to do next. Under 1,400 characters even though the limit is 2,600.
+what to do next. Under 1.400 characters even though the limit is 2.600.
 
 **4. Featured.** Three items: the best post, the proof asset, the way to
 contact. An empty featured section is eight points and the only place on the
