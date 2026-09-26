@@ -7,9 +7,10 @@ Anything marked (inferred) is a guess from those posts. Correct it if it is wron
 
 ## Who I am
 
-- **Name:** Adem Gungormus
-- **What I do, in one sentence:** Data engineer and technical architect working
-  across data, AI, cloud and cyber security, hands-on and strategic.
+- **Name:** Adem Güngörmüs
+- **What I do, in one sentence:** Data & AI Lead: I turn complex data
+  environments in energy, banking and insurance into data people trust and
+  use, from governance and architecture to pipelines, reporting and AI.
 - **Where:** Belgium (Hasselt, Brussels, Antwerp)
 - **Who I am writing for:** (inferred) hiring managers, recruiters and
   decision-makers at Belgian organisations that need data, AI or security
@@ -114,9 +115,22 @@ forums.
 
 ## Proof I can use
 
-Real numbers, outcomes and stories I am happy to put my name on. Empty for
-now, so drafts will come back with `{{your number}}` where a number belongs.
+From my CV. No numbers yet; add them as you have them.
 
--
--
--
+- Data & AI Lead at Alliander (Dutch grid operator), 11/2022 - 02/2026:
+  data and AI roadmap, governance and AI Act / AVG compliance, pipelines and
+  reporting on Azure Data Factory, Databricks and Power BI.
+- Team Lead BI Tooling at KBC, 2021-2022: internal and offshore teams.
+- Technical Architect at ING (Unite project), 2019-2021: automated analytics
+  environment, security architecture for IAM, logging and auditing.
+- Data Quality Analyst at Argenta, 2018-2019: data quality with Collibra and SAS.
+- SAS technical consultant, 2017-2018: Solvay, Atlas Copco, Bridgestone,
+  Candriam, Galapagos and others.
+- Security advisor at FidelSec since 2025: NIS2 and ISO 27001.
+- Collibra Expert Level 3, Microsoft DP-700 / PL-300 / AZ-900, DAMA,
+  Certified Scrum Master.
+- Master's thesis: blockchain and data sharing in the energy sector (2024).
+- Founded One Market Europe (B2C marketplace, Start it @ KBC), 2015-2016.
+- Conferences: Microsoft AI Tour 2026, TNW 2025, MWC Barcelona 2025,
+  AWS Summit Public Sector 2024, GenAI Summit Athens 2024.
+- {{team size at KBC}}  {{one result at Alliander}}  {{clients helped to NIS2}}
