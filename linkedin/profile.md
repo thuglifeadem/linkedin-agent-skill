@@ -10,9 +10,9 @@ real number from you; the skills never invent one.
 |---|---|---|---|
 | Name | Adem G. | Adem Güngörmüs | Full surname, so recruiters can find you |
 | Title | MSc / "Business/Data Management" / coach | Data & AI Consultant | **Data & AI Lead** everywhere |
-| AGenius | 05/2018 - now | projects from 02/2024 or 02/2026 | Decide: one line per client role (below), AGenius as the current role |
-| ING | - | "Technical Architect" (list) / "Data/System Engineer" (text) | Pick one. Draft uses Technical Architect |
-| Argenta | - | "Data Quality Analist" / "Business Analist" | Pick one. Draft uses Data Quality Analyst |
+| AGenius | 05/2018 - now | projects from 02/2024 or 02/2026 | **05/2018 - heden**: all client roles since 2018 ran through AGenius |
+| ING | - | "Technical Architect" (list) / "Data/System Engineer" (text) | **Technical Architect**: you designed the environment and its security architecture |
+| Argenta | - | "Data Quality Analist" / "Business Analist" | **Data Quality Analyst**: the work was data quality in Collibra and SAS |
 | PXL | 2010-2014 | 2011-2016 | Check |
 | Master | BPM & IT - Data Science | IT Management | Check the exact degree name |
 | SAS client | Petercam Degroof | Petercam Degroof | Official name is **Degroof Petercam** |
@@ -40,7 +40,7 @@ Data & AI Lead | Data governance, platforms and AI for energy and banking: Allia
 Ik help organisaties in energie, banken en verzekeringen om complexe dataomgevingen om te zetten in data die mensen vertrouwen en echt gebruiken.
 Van governance en architectuur tot pipelines, rapportering en AI, en ik blijf betrokken tot het in productie draait.
 
-De voorbije acht jaar werkte ik aan data en AI bij Alliander, KBC, ING en Argenta. Daarvoor installeerde ik als technisch consultant bij SAS dataplatformen voor klanten als Solvay en Atlas Copco.
+Sinds 2018 werk ik als freelancer via mijn bedrijf AGenius aan data en AI bij Alliander, KBC, ING en Argenta. Daarvoor installeerde ik als technisch consultant bij SAS dataplatformen voor klanten als Solvay en Atlas Copco.
 
 Bij Alliander leidde ik als Data & AI Lead de data-, automatiserings- en AI-initiatieven: roadmap, governance en compliance met de AI Act en de AVG, en pipelines en rapportering met Azure Data Factory, Databricks en Power BI. {{één resultaat met een getal}}
 
@@ -57,20 +57,28 @@ Zoek je iemand die data en AI in een gereguleerde omgeving van plan tot producti
 
 ## 3. Experience
 
-Add the four missing roles. As a freelancer, list each client as its own
-position (employment type: Freelance) so they show up in search.
+Add the four missing roles. List each client as its own position with
+employment type **Freelance**, and start each description with "Via AGenius."
+so the link to your company is clear. AGenius stays as the umbrella role that
+lists every assignment.
 
-### AGenius BV · Founder, Data & AI Consultant · 02/2026 - heden
+### AGenius BV · Founder, Freelance Data & AI Consultant · Self-employed · 05/2018 - heden
 ```
-Mijn eigen consultancybedrijf voor data- en AI-opdrachten.
-- Data-, automatiserings- en AI-oplossingen ontworpen en gebouwd op Azure, Databricks, Microsoft 365 en Collibra, van de eerste use case met de business tot een werkende oplossing.
-- Terugkerende processen geautomatiseerd: {{welk proces, en hoeveel tijd het bespaart}}.
-- Trainingen in data governance en datakwaliteit.
+Mijn eigen consultancybedrijf. Sinds 2018 werk ik via AGenius als freelance data- en AI-consultant voor banken, verzekeraars en energiebedrijven.
+
+Opdrachten:
+- Alliander (energie): Data & AI Lead, 2022-2026
+- KBC (bank en verzekeringen): Team Lead BI Tooling, 2021-2022
+- ING (bank): Technical Architect, 2019-2021
+- Argenta (bank): Data Quality Analyst, 2018-2019
+- Sinds 2026: data-, automatiserings- en AI-opdrachten op Azure, Databricks, Microsoft 365 en Collibra. {{huidige klant of resultaat}}
+
+Daarnaast geef ik trainingen in data governance en datakwaliteit.
 ```
 
-### Alliander · Data & AI Lead · Freelance · 11/2022 - 02/2026
+### Alliander · Data & AI Lead · Freelance via AGenius · 11/2022 - 02/2026
 ```
-Leiding over de data-, automatiserings- en AI-initiatieven bij de Nederlandse netbeheerder, in een Agile/SAFe-organisatie.
+Via AGenius. Leiding over de data-, automatiserings- en AI-initiatieven bij de Nederlandse netbeheerder, in een Agile/SAFe-organisatie.
 - Roadmap en governance voor data en AI opgezet, met compliance voor de AI Act en de AVG: DPIA's, metadata en datakwaliteit.
 - Pipelines, integraties en managementrapportering gebouwd met Azure Data Factory, Databricks en Power BI. {{aantal bronnen of rapporten}}
 - Multidisciplinaire teams gecoördineerd en use cases uitgewerkt met business en bestuurders. {{één resultaat, bv. uren bespaard per maand}}
@@ -82,25 +90,25 @@ Keep your current text, it is the strongest on the profile. Add one result:
 {{x}} klanten begeleid naar NIS2- of ISO 27001-conformiteit, van risicoanalyse tot audit.
 ```
 
-### KBC · Team Lead BI Tooling · Freelance · 11/2021 - 10/2022
+### KBC · Team Lead BI Tooling · Freelance via AGenius · 11/2021 - 10/2022
 ```
-Teamlead BI-tooling in een hybride cloudomgeving.
+Via AGenius. Teamlead BI-tooling in een hybride cloudomgeving.
 - {{aantal}} mensen aangestuurd, in België en offshore.
 - Controles en processen verbeterd zodat data consistent en op tijd beschikbaar was voor de business, met focus op datakwaliteit en kennisdeling. {{resultaat}}
 - Brug tussen business en IT voor de afspraken rond data governance.
 ```
 
-### ING · Technical Architect · Freelance · 10/2019 - 10/2021
+### ING · Technical Architect · Freelance via AGenius · 10/2019 - 10/2021
 ```
-Technische opzet en kwaliteitsborging van een geautomatiseerde analytics-omgeving in een hybride cloud, binnen het Unite-project.
+Via AGenius. Technische opzet en kwaliteitsborging van een geautomatiseerde analytics-omgeving in een hybride cloud, binnen het Unite-project.
 - SAS- en Python-oplossingen geautomatiseerd met Ansible en Git.
 - Security-architectuur opgezet voor IAM, logging en auditing, als basis voor governance en controle op elke stap van de dataverwerking.
 - Kwaliteits- en auditrapportering voor interne monitoring en externe compliance.
 ```
 
-### Argenta · Data Quality Analyst · Freelance · 05/2018 - 08/2019
+### Argenta · Data Quality Analyst · Freelance via AGenius · 05/2018 - 08/2019
 ```
-Datakwaliteit en datavalidatie opgezet met Collibra en SAS, als onderdeel van de overstap naar een datagedreven werking.
+Via AGenius. Datakwaliteit en datavalidatie opgezet met Collibra en SAS, als onderdeel van de overstap naar een datagedreven werking.
 - Kwaliteitscontroles geautomatiseerd en de resultaten zichtbaar gemaakt in BI-rapportering.
 - Het team begeleid in de overstap naar een Agile manier van werken.
 ```
@@ -172,7 +180,19 @@ Ik help organisaties hun data betrouwbaar, veilig en bruikbaar te maken: data go
 2. Your thesis on research.ou.nl
 3. Your Calendly link, renamed from "Book a Coffee Drink" to "Plan een kennismaking (30 min)"
 
-## 9. Still needed from you
+## 9. Align your CV with this profile
+
+Use the same titles and dates in your CV, so recruiters see one story:
+- Header: **Data & AI Lead** (now "Data & AI Consultant")
+- Put all client roles under **AGenius BV, 05/2018 - heden** (now 02/2024 and
+  02/2026 appear as separate AGenius dates)
+- ING: **Technical Architect** in both the list and the text (text now says
+  "Data/System Engineer")
+- Argenta: **Data Quality Analyst** in both places (text now says "Business Analist")
+- Ethias: list it under LACO, as on LinkedIn
+- "Petercam Degroof" becomes **Degroof Petercam**
+
+## 10. Still needed from you
 
 - **One number per recent role** (Alliander, KBC, AGenius, FidelSec): team
   size, sources integrated, reports automated, hours saved, audits passed.
