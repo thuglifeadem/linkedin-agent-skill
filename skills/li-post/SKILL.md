@@ -40,8 +40,8 @@ The turn   one line that reframes what came before.
 Close      one specific question, or one instruction. Never both.
 ```
 
-Length: 900-1,300 characters is the working range for a text post. Under 400
-reads as a thought, not a post. Over 2,000 needs to earn every line, and the
+Length: 900-1.300 characters is the working range for a text post. Under 400
+reads as a thought, not a post. Over 2.000 needs to earn every line, and the
 "see more" tap has to be paid for by line 2.
 
 ## The loop
@@ -63,9 +63,9 @@ pasted. Then, underneath:
 ```
 POST READY
 hook:      #17 Time Anchor
-length:    1,140 characters
+length:    1.140 characters
 humanizer: 6 artefacts stripped, human score 84 PASS
-post at:   Tuesday 8:15am ET (from your plan)
+post at:   Tuesday 8:15am CET (from your plan)
 
 Reply "yes" to log it, or tell me what to change.
 ```
@@ -77,8 +77,11 @@ and the first line, so `/li-audit` has a history to work from later.
 ## Rules that make the difference
 
 - **One idea per post.** If the draft has two, you have two posts. Say so.
-- **Numbers over adjectives.** "$4,200" beats "a lot". If the user has not
+- **Numbers over adjectives.** "€4.200" beats "a lot". If the user has not
   given you a number, ask for one rather than writing around the hole.
+- **European number format.** Euro sign before the amount, `.` for
+  thousands, `,` for decimals: €4.200, €1,5M, 8,1%. Unless `voice.md` says
+  otherwise.
 - **No engagement bait.** "Thoughts?" and "Agree?" are dead. The closing
   question has to be one only this post could ask.
 - **Three hashtags maximum**, at the bottom, and only if they are real
@@ -98,7 +101,7 @@ and the first line, so `/li-audit` has a history to work from later.
 ```
 HOOKS
 1. #17 Time Anchor    Writing a proposal used to take me 5 hours. It now takes 20 minutes.
-2. #12 Comparison     A $12,000 proposal writer vs a weekend and a template. The weekend won.
+2. #12 Comparison     A €12.000 proposal writer vs a weekend and a template. The weekend won.
 3. #3  Mistake        For two years I charged clients for hours I was wasting on formatting.
 
 Shipping #17: the ratio is believable and the number is yours.

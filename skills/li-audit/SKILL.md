@@ -39,7 +39,7 @@ instead, and show the working:
 | **Save/send rate** | if available | the strongest single predictor of future reach |
 
 Rank by engagement rate and reach multiple, not impressions. A post with 900
-impressions and 40 comments beat the one with 12,000 impressions and 6.
+impressions and 40 comments beat the one with 12.000 impressions and 6.
 
 ## Then find the pattern
 
@@ -64,16 +64,16 @@ say that instead of inventing one.
 AUDIT  ·  31 posts  ·  Jun 12 - Sep 5
 
 TOP 5 BY ENGAGEMENT RATE
-  8.1%  #3  Mistake      "$18,000 is what no contract cost me"      1,940 imp
-  6.4%  #20 Walk-Away    "I fired my highest-paying client"         2,210 imp
+  8,1%  #3  Mistake      "€18.000 is what no contract cost me"      1.940 imp
+  6,4%  #20 Walk-Away    "I fired my highest-paying client"         2.210 imp
   ...
 
 BOTTOM 5
-  0.4%  #5  List         "7 tools every founder needs"             11,400 imp
+  0,4%  #5  List         "7 tools every founder needs"             11.400 imp
   ...
 
 WHAT THE DATA SAYS
-1. Posts where you were the one who looked bad: mean 6.2% vs 1.1% for
+1. Posts where you were the one who looked bad: mean 6,2% vs 1,1% for
    everything else. n=6. This is your strongest signal and it is not close.
 2. Tool listicles get impressions and nothing else. High reach, no comments,
    no leads. Three of your bottom five.

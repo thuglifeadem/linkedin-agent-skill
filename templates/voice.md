@@ -14,7 +14,7 @@ at the answers.
 
 - **Name:**
 - **What I do, in one sentence:**
-- **Who I am writing for:** (be specific: "agency owners doing $1-5M", not "professionals")
+- **Who I am writing for:** (be specific: "agency owners doing €1-5M", not "professionals")
 - **What I sell:**
 
 ## What I sound like
@@ -22,6 +22,7 @@ at the answers.
 - **Three of my own posts that sound most like me:** (paste them, or link them)
 - **Words I actually use:**
 - **Words I would never use:**
+- **Number format:** (default: €4.200 and 8,1% - euro sign first, `.` thousands, `,` decimals)
 - **Sentence length:** (short and punchy / mixed / long and considered)
 - **Do I swear:** (yes / mild / no)
 - **Emoji:** (never / one, rarely / freely)

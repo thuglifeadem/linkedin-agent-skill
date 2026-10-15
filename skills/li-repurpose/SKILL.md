@@ -53,7 +53,7 @@ ones are watching for it.
 ## Output
 
 ```
-SOURCE: "Why we killed discovery calls" (18 min, 3,400 words)
+SOURCE: "Why we killed discovery calls" (18 min, 3.400 words)
 
 FOUND  4 claims, 6 numbers, 2 stories, 3 mechanisms, 1 mistake, 5 quotable lines
 
