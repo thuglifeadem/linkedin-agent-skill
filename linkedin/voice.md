@@ -134,3 +134,9 @@ From my CV. No numbers yet; add them as you have them.
 - Conferences: Microsoft AI Tour 2026, TNW 2025, MWC Barcelona 2025,
   AWS Summit Public Sector 2024, GenAI Summit Athens 2024.
 - {{team size at KBC}}  {{one result at Alliander}}  {{clients helped to NIS2}}
+
+## Working rules
+
+- Never leave `{{placeholders}}` in a draft. If a fact or number is missing,
+  write the passage without it (no invented figures either) and mention in
+  the chat what could be added.

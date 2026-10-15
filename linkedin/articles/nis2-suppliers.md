@@ -30,7 +30,9 @@ The numbers behind the pressure
 
 What it costs a small supplier
 
-{{Your own experience, e.g. "In the companies I advise, one questionnaire takes about 16 hours to answer properly: collecting evidence, writing answers, finding out who configured the firewall three years ago. A growing supplier gets 8 to 10 of them a year. That is more than 150 hours of work that earns nothing."}}
+A questionnaire like this is rarely hard because of the questions. It is hard because the answers are scattered. The backup policy lives in the head of your IT partner. The access rights were set up by someone who left two years ago. The incident procedure was never written down. Collecting all of that, writing it up and getting it approved easily takes several working days.
+
+And it rarely stays at one. Every large client uses its own format, so the same questions come back a few months later in a different order. For a small company, that is time taken straight from paying work.
 
 And since 2 August 2026, the AI Act's transparency rules apply as well. If you run a chatbot for customers or publish AI-generated content, you have to say so. Expect that question to show up on the next questionnaire too.
 
