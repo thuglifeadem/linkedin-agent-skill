@@ -5,7 +5,7 @@
 ```
 Your client falls under NIS2. In practice, so do you.
 
-A 15-person company in Limburg makes parts for a manufacturer it has supplied for twelve years. Nobody there has ever heard of NIS2. Then a security questionnaire arrives from that client's procurement team. Thirty pages. Access controls, backups, incident response, patch management. Deadline: three weeks.
+Picture a 15-person company in Limburg that has made parts for the same manufacturer for twelve years. Nobody there has ever heard of NIS2. Then a security questionnaire arrives from that client's procurement team. Thirty pages. Access controls, backups, incident response, patch management. Deadline: three weeks.
 
 That company is not in scope of NIS2. It still has to answer.
 
